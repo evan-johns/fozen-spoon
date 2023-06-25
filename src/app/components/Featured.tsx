@@ -1,4 +1,4 @@
-export default function Example() {
+export default function Featured() {
   return (
     <div className="overflow-hidden bg-gray-900 py-32">
       <div className="mx-auto max-w-7xl px-6 lg:flex lg:px-8">
@@ -15,7 +15,7 @@ export default function Example() {
               door every week. From mouthwatering cakes to scrumptious cookies
               and everything in between, our talented bakers create heavenly
               delights that will leave you craving more. Simply select your
-              favorites, and we'll take care of the rest.
+              favorites, and we will take care of the rest.
             </p>
             <div className="mt-10 flex">
               <a
@@ -29,7 +29,7 @@ export default function Example() {
           <div className="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
             <div className="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
               <img
-                src="https://images.unsplash.com/photo-1574085733277-851d9d856a3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80"
+                src="https://images.unsplash.com/photo-1577392467061-839dd3d388ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
                 alt=""
                 className="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover"
               />

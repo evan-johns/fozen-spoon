@@ -5,12 +5,12 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 
 const navigation = [
   { name: "Menu", href: "#" },
-  { name: "Order", href: "#" },
+  { name: "Catering", href: "#" },
   { name: "Locations", href: "#" },
   { name: "Company", href: "#" },
 ];
 
-export default function Example() {
+export default function Nav() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   return (

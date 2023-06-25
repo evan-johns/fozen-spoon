@@ -103,7 +103,7 @@ const navigation = {
   ],
 };
 
-export default function Example() {
+export default function Footer() {
   return (
     <footer className="bg-gray-900" aria-labelledby="footer-heading">
       <h2 id="footer-heading" className="sr-only">
@@ -197,8 +197,8 @@ export default function Example() {
               Subscribe to our newsletter
             </h3>
             <p className="mt-2 text-sm leading-6 text-gray-300">
-              The latest news, articles, and resources, sent to your inbox
-              weekly.
+              New irresistible desserts, exclusive offers, and sweet surprises
+              delivered straight to your inbox.
             </p>
           </div>
           <form className="mt-6 sm:flex sm:max-w-md lg:mt-0">
