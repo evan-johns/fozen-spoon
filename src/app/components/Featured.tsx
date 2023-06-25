@@ -8,7 +8,7 @@ export default function Featured() {
               Welcome to Sweet Delights!
             </h2>
             <p className="mt-6 text-xl leading-8 text-white">
-              🍰 Weekly Dessert Delivery 🍰
+              Weekly Dessert Delivery
             </p>
             <p className="mt-6 text-base leading-7 text-gray-400">
               Imagine having a delectable dessert delivered straight to your
